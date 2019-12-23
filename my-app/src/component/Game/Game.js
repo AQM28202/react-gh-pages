@@ -1,7 +1,7 @@
 import React from 'react';
 import Board from '../board/board';
 import Header from '../Header/Header'
-import Images from './images.json';
+import Images from './images.json.js';
 import Jumbotron from '../Jumbotron/Jumbotron';
 
 class Game extends React.Component {
