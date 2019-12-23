@@ -1,0 +1,53 @@
+{
+    "images": [
+        {
+            "src": "/images/barack.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/bernie.jpg",
+            "clicked": false 
+        },
+        {
+            "src": "/images/biden.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/bill.jpg",
+            "clicked": false 
+        },
+        {
+            "src": "/images/bush.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/harris.jpg",
+            "clicked": false 
+        },
+        {
+            "src": "/images/hillary.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/maxine.jpg",
+            "clicked": false 
+        },
+        {
+            "src": "/images/michelle.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/nancy.jpg",
+            "clicked": false 
+        },
+        {
+            "src": "/images/pence.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/trump.jpg",
+            "clicked": false 
+        }
+
+    ]
+}

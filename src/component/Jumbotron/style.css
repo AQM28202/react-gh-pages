@@ -1,0 +1,21 @@
+.hero {
+    height: 400px;
+    background: blue;
+    position: relative;
+}
+
+
+.hero * {
+    position: relative;
+    z-index: 2;
+}
+
+.hero h1, .hero h2 {
+    color: white;
+}
+
+.hero h1 {
+    font-size: 60px;
+    padding-top: 140px;
+    margin-top: 75px;
+}
